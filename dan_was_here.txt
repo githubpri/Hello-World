@@ -1,2 +1,6 @@
 dan_was_here.txt
 pri was here
+
+[remote "heroku"]
+	url = git@heroku.com:cshw10.git
+	fetch = +refs/heads/*:refs/remotes/heroku/*
