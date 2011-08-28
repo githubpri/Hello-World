@@ -4,3 +4,6 @@ pri was here
 [remote "heroku"]
 	url = git@heroku.com:cshw10.git
 	fetch = +refs/heads/*:refs/remotes/heroku/*
+
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAu0EPT1zVpR80F/mw0iPSNvrHfnqUgaZTjAMDDbPW8illysK2NkiIIQyJjAmj0wuMwtlaO6LLjMfe49gmnK5qZepb83cKA2FBCtDLHrSIOkI9aMtSUb0eBYWCnpB7QjB2KTMLq6CbxCMFCD7c9Gr/FCaV+IxBTjGsLN/oaryi4QWKIN7P4OmTkSNeuZ1wqJ03KtODOF15QhOAsnOyvSDZ0cHSZHZgzZcwsHqX9GCnUNrV9ri1tJh6w+22+domvy04KyFwuVPpUPyih4g/jHF8dSW5qACjHQwvvET/KP9EcEuuNMXimFM2t7eyoGJGQ81w2pxKxbAVrz4dI3tkLw+8oQ== githubpri@yahoo.com
+
